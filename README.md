@@ -1,7 +1,7 @@
 # Enough
 [![Hits](https://hits.sh/github.com/tingirifistik/Enough-Reborn.svg?label=views&color=007ec6)](https://hits.sh/github.com/tingirifistik/Enough-Reborn/)
 
-<img src=https://github.com/tingirifistik/Enough-Reborn/assets/51286195/fc10a910-b4a4-4ff2-8058-62767b9af30f height="200px" width="400px"/>
+<img src=https://i.imgur.com/QauqvhI.png height="200px" width="400px"/>
 <img src=https://i.imgur.com/S0GouMf.png height="200px" width="400px"/>
 
 
