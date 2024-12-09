@@ -15,7 +15,7 @@
 
 
 <h2>Kurulum</h2>
-1.adım/
+1.adım
  
 ```console
 git clone https://github.com/yiit06/klytsmsbomber.git
