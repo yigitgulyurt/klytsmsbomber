@@ -42,12 +42,21 @@ python3 klyt-bilgisayar.py
 python3 klyt-telefon.py
 ```
 
+ㅤㅤㅤㅤㅤ
 
-<h2></h2>
-<h2></h2>
-<h2></h2>
+ㅤㅤㅤㅤㅤ
+
+ㅤㅤㅤㅤㅤ
 
 
+ㅤㅤㅤㅤㅤ
+
+ㅤㅤㅤㅤㅤ
+
+ㅤㅤㅤㅤㅤ
+
+
+ 
 <h2>Installation</h2>
 1.step
  
