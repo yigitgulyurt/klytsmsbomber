@@ -1,8 +1,9 @@
 # KLYT SMS BOMBER
 [![Hits](https://hits.sh/github.com/yiit06/klytsmsbomber.svg?label=viewer&color=ff0000&labelColor=000000)](https://hits.sh/github.com/yiit06/klytsmsbomber/)
 
-[Türkçe](https://github.com/yiit06/klytsmsbomber?tab=readme-ov-file#kurulum) Kurulum
-[English](https://github.com/yiit06/klytsmsbomber?tab=readme-ov-file#Installation) Installation
+[Türkçe](https://github.com/yiit06/klytsmsbomber?tab=readme-ov-file#kurulum) Kurulum.
+
+[English](https://github.com/yiit06/klytsmsbomber?tab=readme-ov-file#Installation) Installation.
 
 <img src=https://i.imgur.com/QauqvhI.png height="200px" width="400px"/>
 <img src=https://i.imgur.com/S0GouMf.png height="200px" width="400px"/>
