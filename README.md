@@ -9,7 +9,7 @@
 
 ```console
 git clone https://github.com/yiit06/klytsmsbomber.git
-cd klytsms
+cd klytsmsbomber
 pip3 install -r requirements.txt
 python3 klyt.py
 ```
