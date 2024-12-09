@@ -9,8 +9,8 @@
 <img src=https://i.imgur.com/S0GouMf.png height="200px" width="400px"/>
 
 
-<h3>FOR EDUCATIONAL PURPOSES</h3>
-<h3>FOR FUN</h3>
+<h3>EĞİTİM AMAÇLI</h3>
+<h3>EĞLENCE İÇİN</h3>
 
 
 
@@ -30,33 +30,49 @@ cd klytsmsbomber
 ```console
 pip3 install -r requirements.txt
 ```
-4.adım
+4.adım/bilgisayar
 
 ```console
-python3 klyt.py
+python3 klyt-bilgisayar.py
 ```
 
+4.adım/telefon
+
+```console
+python3 klyt-telefon.py
+```
+
+
+<h2></h2>
+<h2></h2>
+<h2></h2>
 
 
 <h2>Installation</h2>
 1.step
  
 ```console
-git clone https://github.com/yiit06/klytsmsbomber.git
+git clone https://github.com/yiit06/klytsmsbomber-en.git
 ```
 2.step
 
 ```console
-cd klytsmsbomber
+cd klytsmsbomber-en
 ```
 3.step
 
 ```console
 pip3 install -r requirements.txt
 ```
-4.step
+4.step/computer
 
 ```console
-python3 klyt.py
+python3 klyt-computer.py
+```
+
+4.step/phone
+
+```console
+python3 klyt-phone.py
 ```
 
