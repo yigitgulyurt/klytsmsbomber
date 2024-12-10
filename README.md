@@ -16,7 +16,7 @@ This content is only for educational purpose. Use of any hacking tool without ex
 1.adım
  
 ```console
-git clone https://github.com/yiit06/klytsmsbomber.git
+git clone https://github.com/yigitgulyurt/klytsmsbomber.git
 ```
 2.adım
 
